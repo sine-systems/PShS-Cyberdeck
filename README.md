@@ -14,7 +14,7 @@ The Portable Self-hosted Server (PShS) is a portable homelab and worksatation. Y
 
 ## Bill Of Materials
 
-| Item             | Price              |Website                                                                           |
+| Item             | Price              |                                                              Website                                             |
 |------------------|--------------------|-----------------------------------------------------------------------------------|
 |Main Enclosure    | $1319.95           | https://www.pelican.com/us/en/product/cases/protector/0550?sku=0550-000-110       |
 |Main PC Chassis   | $239               | https://www.amazon.com/dp/B0CS3TNXBW?plpRedirect=mhFallback&ref=clp_hp_h_ps#productDetails |
