@@ -4,4 +4,3 @@
 This is a portable AMD Threadripper PRO workstation combined with a NAS and Rasperry Pi Clusters.
 </div>
 
-
