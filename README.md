@@ -27,6 +27,9 @@ The Portable Self-hosted Server (PShS) is a portable homelab and worksatation. Y
 | Router           | $499               | https://shop.netgate.com/products/6100-base-pfsense?_su_rec=-DRfQffrnBJy9xsg7-c5oAxALlra4RhSqhLE_Eo1KGrPCbRX-OaFfXwZ2rwcU5Aj1qtI5ENoHbBg7c1XQk7w_ehXWac8wQK9E-yzhN53sEQKtMIxKkeNokSN1yQIjnzXjUqwpIMWRV1xTcsuFpMoVu6PNl3fZBKu8wh8fLm2NvBGV2KAc_AvK84Qo0pApf0ULe0fEHO2tjVHfDcoEYfkwnD1j3Tef9Lw4n9k3z1vjs3sb-Xxk40G0AUSPbIstQr7v2OdVfugb-lxkpbPYw6TnQVFiDdFhOQCDgZDjsgP52_zP0l3TIfK2YBxcN6HsdFSK4Nh3wYXWqV__b21eMZjIX99&_su_rec_id=b6ce1dca-eaa9-4cf1-8b97-ecd233def9b2-1792963178 |
 | Backup Power Station | $1,599         | https://us.ecoflow.com/products/ecoflow-delta-3-ultra-plus-portable-power-station-3072wh?variant=55612118532169 |
 
+### Workstation
+
+
 ## LICENSE
 CERN-OHL-S-2.0, See LICENSE for more details.
 
