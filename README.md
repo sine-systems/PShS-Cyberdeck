@@ -31,6 +31,14 @@ The Portable Self-hosted Server (PShS) is a portable homelab and worksatation. Y
 
 |Item             | Price               | Website                                                                    |        
 |-----------------|---------------------|----------------------------------------------------------------------------|
+| CPU             | $12,000             | https://www.bhphotovideo.com/c/product/1906628-REG/amd_100_100001361wof_ryzen_threadripper_pro_9995wx.html?ap=y&smp=Y |
+| Graphics Card (Main) | $18,000        | https://www.newegg.com/p/N82E16888892012?item=N82E16888892012&utm_source=google&utm_medium=organic+shopping&utm_campaign=knc-googleadwords-_-accelerator%20cards-_-nvidia-_-88892012&source=region&negg_topt=0 |
+| RAM             | $6,000              | https://www.serversupply.com/MEMORY/PC5-44800/128GB/MICRON/MTC40F2047S1RC56BR_394635.htm |
+| Motherboard |  $896                   |https://www.newegg.com/gigabyte-mh53-g40-amd-ryzen-threadripper-pro-7000-wx-series-processors/p/N82E16813145513?item=N82E16813145513&source=region&utm_source=google&utm_medium=paid+shopping&utm_campaign=knc-googleadwords-pc-_-pla-_-motherboards+-+server-_-N82E16813145513&negg_topt=0&id0=Google&id1=19474500840&id2=141810081981&id3&id4&id5=pla-2502689933490&id6&id7=9028554&id8&id9=g&id10=c&id11&id12=CjwKCAjw9PvWBhAxEiwAddzYyeiLB2UzGOe544mI1BzHJchKENKlwRt7C8DN2SWhnza1E8HaNbYVCBoCtTAQAvD_BwE&id13&id14=Y&id15&id16=643770933297&id17&id18&id19&id20&id21=pla&id22=8438988&id23=online&id24=N82E16813145513&id25=US&id26=2502689933490&id27=Y&id28&id29&id30=6992051701955633808&id31=en&id32&id33&id34 |
+| Cooler          | $139.99           | https://www.centralcomputer.com/noctua-nh-u14s-tr5-sp6-premium-quality-quiet-140mm-cpu-cooler-for-amd-threadripper-strx5-swrx9-and-epyc-8004-sp6.html |
+| PSU             | $629.99           | https://www.corsair.com/us/en/p/psu/CP-9020312-NA/ws3000-3000w-atx-3-1-fully-modular-workstation-power-supply-cp-9020312-na |
+
+
 ## LICENSE
 CERN-OHL-S-2.0, See LICENSE for more details.
 
